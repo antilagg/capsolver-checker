@@ -1,0 +1,9 @@
+curl_cffi
+extvip
+quart
+playwright
+logmagix
+patchright
+dataclasses
+typing
+asyncio
